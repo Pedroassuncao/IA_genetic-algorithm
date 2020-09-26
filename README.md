@@ -10,7 +10,8 @@
 <p align="center"> <b>Pedro Assunção</b> </p>
 <p align="center"> <img src="Inteligencia-Artificial.jpg" width="300" alt="inteligencia artifical">
 
-This is my repo that i develop in Artificial intelligence course of Universidade Lusófona do Porto
+This is my repo that i develop in Artificial intelligence course of Universidade Lusófona do Porto.
+
 We have to resolve 2 problems applying metaheiristics.
 ## Problem 1 
 
