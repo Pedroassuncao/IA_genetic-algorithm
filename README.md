@@ -8,7 +8,7 @@
 
 <!-- ![Inteligencia Artifical](p15/InteligÃªncia-Artificial.jpg) -->
 <p align="center"> <b>Pedro Assunção</b> </p>
-<p align="center"> <img src="https://raw.githubusercontent.com/Pedroassuncao/REPONAME/PATH/010-linkedin.svg" alt="inteligencia artifical">
+<p align="center"> <img src="https://raw.githubusercontent.com/Pedroassuncao/IA_genetic-algorithm/Inteligencia-Artificial.jpg" alt="inteligencia artifical">
 
 This is my repo that i develop in Artificial intelligence course of Universidade Lusófona do Porto
 We have to resolve 2 problems applying metaheiristics.
